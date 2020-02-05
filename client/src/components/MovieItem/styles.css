@@ -1,0 +1,33 @@
+.itemWrapper {
+  border: 1px #fff solid;
+  flex: 0 1;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 4px;
+  background-color: rgb(30,30,30);
+  color: #fff;
+  text-align: left;
+  text-decoration: none;
+}
+
+/*Styles just in case there is no image available*/
+.movieImgWrapper {
+  width: 185px;
+  height: 278px;
+}
+
+.title {
+  margin: 10px 0 15px 0;
+  text-align: left;
+}
+
+.ratingWrapper {
+  background-color: rgb(37,218,198);
+  float: right;
+  padding: 7px;
+  border-radius: 4px;
+}
+
+.rating {
+  margin: 0;
+}

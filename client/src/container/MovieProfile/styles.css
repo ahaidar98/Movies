@@ -1,0 +1,45 @@
+.mpContainerWrapper {
+  margin: 50px;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.movieDetailImg {
+  display: inline-block;
+  width: 35%;
+}
+
+.movieInfoWrapper {
+  width: 65%;
+}
+
+.movieInfo {
+  width: 100%;
+  display: inline-block;
+  border-bottom: 1px solid #fff;
+}
+
+.movieStatusHeader {
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+}
+
+.movieStatusInfo {
+  display: inline-block;
+  padding: 7px 0 10px 0;
+}
+
+.movieTitle {
+  margin-top: 0px;
+}
+
+.genreHeader {
+  margin-top: 5px;
+  margin-bottom: 13px;
+}
+
+.movieHomeLink {
+  margin-left: 5px;
+}

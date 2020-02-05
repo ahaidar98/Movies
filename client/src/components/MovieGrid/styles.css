@@ -1,0 +1,19 @@
+.gridHeader {
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.resultText {
+  color: #fff;
+}
+
+.movieGrid {
+  margin: 10px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

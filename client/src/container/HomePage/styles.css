@@ -1,0 +1,24 @@
+.containerWrapper {
+  margin: 50px;
+}
+
+.searchbarRow {
+  margin-bottom: 30px;
+}
+
+.movieSearchbar {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.movieInput {
+  display: inline-block;
+  padding: 10px;
+  outline: none !important;
+  background-color: rgb(30,30,30);
+  border: 1px #fff solid;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  color: #fff;
+  text-decoration: none;
+}
