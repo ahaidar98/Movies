@@ -5,7 +5,7 @@
   "proxy": "http://localhost:5000/",
   "dependencies": {
     "history": "^4.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.template": "^4.5.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
